@@ -107,7 +107,7 @@ analytics:
 # Site Author
 author:
   name             : "Stiphen Chowdhury"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           :  "/images/bio-photo.jpg"# path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "MSc in Software Engineering, PhD Candidate in Data Science and Machine Learning"
   location         : "Beds, UK"
   email            :
