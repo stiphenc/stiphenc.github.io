@@ -22,7 +22,7 @@ feature_row:
   - image_path: /assets/images/poster.jpg
     alt: "Uncertainty with Bayesian Deep Learning"
     title: "Research"
-    excerpt: "Feature weighting for clustering."
+    excerpt: "Density-based clustering."
     url: "research"
     btn_label: "Read More"
     btn_class: "btn--inverse"
