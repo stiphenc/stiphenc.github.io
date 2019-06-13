@@ -32,8 +32,4 @@ feature_row:
 
 I am a VL at [University of Hertfordshire] (https://www.herts.ac.uk/), in addition to holding a masters degree in Software Engineering with distinction from [University of Hertfordshire](https://www.herts.ac.uk/). I grew up in Bangladesh, studied BSc (Hons) Business Information Systems at [University of East London](https://www.uel.ac.uk/), was awarded a first class honours, helped design a model to quantify student performance based on their classroom activity using supervised learning techniques, prior to my PhD in Data Science and Machine Learning at [University of Hertfordshire] (https://www.herts.ac.uk/). I'm interested in unsupervised and semi-supervised learning, particularly in feature selection and feature weighting.
 
-<div id='featured'></div>
-
-{% include feature_row %}
-
 ---
