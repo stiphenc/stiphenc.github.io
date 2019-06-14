@@ -19,7 +19,7 @@ feature_row:
     url: "blog"
     btn_label: "Read More"
     btn_class: "btn--inverse"
-  - image_path: /assets/images/dbscan.jpg
+  - image_path: /assets/images/illusion.jpg
     alt: "Uncertainty with Bayesian Deep Learning"
     title: "Research"
     excerpt: "Density-based clustering."
