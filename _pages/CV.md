@@ -15,4 +15,4 @@ header:
 
 ## My CV
 [Get My CV]({{ site.url }}/media/CV/stiphen_chowdhury_resume.pdf) directly.
-<iframe width="560" height="315" src="/media/CV/stiphen_chowdhury_resume.pdf"></iframe>
+<iframe width="1100" height="700" src="/media/CV/stiphen_chowdhury_resume.pdf"></iframe>
