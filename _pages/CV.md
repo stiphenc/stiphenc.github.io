@@ -14,5 +14,5 @@ header:
 ---
 
 ## My CV
-[Get My CV]({{ site.url }}/media/CV/stiphen_chowdhury_resume.pdf) directly.
+[Get My CV]({{ site.url }}/media/CV/Stiphen_Chowdhury_CV.pdf) directly.
 <iframe width="1100" height="700" src="/media/CV/Stiphen_Chowdhury_CV.pdf"></iframe>
