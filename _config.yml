@@ -80,9 +80,9 @@ analytics:
 author:
   name             : "Stiphen Chowdhury"
   avatar           : "/assets/images/stiphen.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "PhD Candidate Data Science and Machine Learning, MSc Software Engineering"
-  location         : "University of Hertfordshire"
-  email            : "s.chowdhury8@herts.ac.uk"
+  bio              : "Lecturer in Computing & AI, MSc Software Engineering"
+  location         : "Anglia Ruskin University"
+  email            : "stiphen.chowdhury@aru.ac.uk"
   uri              :
   bitbucket        :
   codepen          :
